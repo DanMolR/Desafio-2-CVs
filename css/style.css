@@ -1,0 +1,119 @@
+/*CV BRUCE WAYNE*/
+
+.body-bruce{
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+.header-bruce {
+    background-color: #313A89;
+    text-align: center;
+    height: 188.81px;
+    line-height: 20;
+}
+img.batman-logo {
+    height: 146.37px;
+}
+.h1-bruce {
+    background-color: #c4c4c4;
+    color: #005677;
+    text-align: center;
+    margin-top: 0px;
+    letter-spacing: 0.5ch;
+
+}
+.h2-bruce {
+    background-color: #c4c4c4;
+    color: #005677;
+    letter-spacing: 0.5ch;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.bruce-italic {font-style: italic;}
+span {font-weight: bold;}
+
+.bruce-fecha {height: 1px;}
+.bruce-descripción {margin-left: 80px;}
+
+.bruce-datos {
+    margin-bottom: 30px;
+}
+.bruce-formación {
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.bruce-experiencia {
+    margin-bottom: 150px;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    height: 37px;
+    text-align: center;   
+}
+.batman-footer {
+    vertical-align: 50%;
+}
+img {
+    margin-left: 20px;
+    margin-top: 8px; }
+
+/*CV DANIEL*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {
+    margin: 0px;
+    font-family: Helvetica, arial, sans-serif;
+}
+
+.header-daniel {
+    background-color: mediumturquoise;
+    text-align: center;
+}
+.profile-photo {
+    height: 200px;
+    opacity: 0.6;
+    margin: 0px;
+    transition: 0.5s;
+}
+.profile-photo:hover {
+    opacity: 1;
+}
+
+.h1-daniel {
+    text-align: center;
+    color:mediumturquoise;
+    background-color: #005677;
+    margin-top: 0px;
+}
+
+.h2-daniel {
+    text-align: center;
+    background-color:lightsalmon;
+    color:saddlebrown;
+}
+
+.italic {
+    font-style: italic;
+    color: darkslategrey;
+    font-size: 16px;
+}
+
+section.daniel-formación {margin-left: 30px;}
+.fecha {height: 7px;}
+.formación-descripción {margin-left: 45px;}
+
+.daniel-experiencia {margin-left: 30px;}
+.descripción {margin-left: 89px;}
+
+.daniel-footer {
+    color: mediumturquoise;
+    ;
+}
+img {height: 25px;
+}
